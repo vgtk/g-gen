@@ -1,0 +1,3 @@
+[submodule "vgobject"]
+	path = vgobject
+	url = git://github.com/vgtk/vgobject
